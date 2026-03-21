@@ -1,0 +1,37 @@
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.DS_Store
+darwin/
+build/
+android/app/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# Gerado automaticamente pelo Flutter e Node.js.
+# Adicione quaisquer outros arquivos/pastas que não devem ser versionados.
+frontend/
+backend/node_modules/
+backend/.env
+
+# Arquivos gerados pelo Flutter
+.dart_tool/
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.vscode/
+build/
+*.iml
+*.iws
+*.ipr
+*.lock
+*.jar
+*.class
+*.apk
+*.aab
+*.snap
+*.xcworkspace
+*.xcscheme
+# etc. (muitas linhas geradas)

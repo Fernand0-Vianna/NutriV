@@ -1,0 +1,11 @@
+{
+  "name": "nutriscan",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}

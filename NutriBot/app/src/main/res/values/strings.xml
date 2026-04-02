@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriBot</string>
+    <string name="login">Login</string>
+    <string name="register">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="name">Nome</string>
+    <string name="home">Início</string>
+    <string name="add_meal">Adicionar Refeição</string>
+    <string name="meal_history">Histórico</string>
+    <string name="chatbot">ChatBot</string>
+    <string name="profile">Perfil</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="logout">Sair</string>
+</resources>
